@@ -1,0 +1,34 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.orange_color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half_width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half_width img{
+    width: 80%;
+}
+.link_button{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+}
+.top_banar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
